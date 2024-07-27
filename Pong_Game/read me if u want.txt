@@ -1,0 +1,6 @@
+This game is perfectly fine
+
+there is a small bug where if u hold w or s or up or down the other player cant play
+other than that there is nothing
+
+a working point system, bouncing ball, right input, all fine.
