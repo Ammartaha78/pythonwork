@@ -1,0 +1,20 @@
+Hey! My name is Ammar Ahmed Mohamed Taha, I'm 13 next month, and I love Coding.
+
+My Main language in Coding is Python or Pygame library. I worked with other modules before but these are my main ones.
+I made over six games, sometimes it worked others it didn't. But completely finished games are six that i attached to this file here.
+This is acually a copy of the main file i use for coding! 
+
+Another hint: please when you open the files open it with an IDE
+(Like sublime text or visual studio code that i prefer to use for coding)
+
+I started coding about two years ago, my first game was the Pong Game you can see here.
+Then I wanted to make a Mario Ripoff that took me alooong time but is finally finished.
+Then the other games.
+
+Please Focus on the Chess Game, I worked on it day and night for 14 days, (two weeks)
+
+Please keep in mind that all of these games were made by me learning by my sefl on youtube and that i have not taken any courses before.
+(so these are from pure skill)
+
+
+Thx, Ammar.

@@ -1,0 +1,4 @@
+This file was working before but now i dont know why it isn't, i tried shifted the paths and locations but just couldn't get it right
+but ill add a video that i made about it that worked
+here.
+Keep in mind that this game is 2 player. I dont have the ability to add AI
